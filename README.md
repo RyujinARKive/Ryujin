@@ -1,5 +1,4 @@
 ## Hi There👋, My name is Himanshu
-======================================================
 I have been learning cybersecurity with a focus on OSINT, scripting, and bugbounty.
 
 Currently experimenting with Linux & security tools and building basic projects.
